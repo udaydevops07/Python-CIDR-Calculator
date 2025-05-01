@@ -10,7 +10,7 @@ docker run -p 5000:5000 cidr-calculator
 Then open your browser to http://localhost:5000
 
 
-✅ Step-by-Step for macOS
+# ✅ Step-by-Step for macOS
 1. Open Terminal
 2. Create a Virtual Environment (recommended)
 
